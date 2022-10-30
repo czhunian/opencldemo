@@ -1,0 +1,19 @@
+# ninja log v5
+0	153	688820761	src/main/cpp/openclstatic/CMakeFiles/openclstatic.dir/libopencl.cpp.o	43fc4e5e386d8d59
+155	230	688820761	src/main/cpp/openclstatic/libopenclstatic.a	ec0322522b2bbd3d
+6	316	688820761	src/main/cpp/main/CMakeFiles/native-lib.dir/native-lib.cpp.o	a2e337fbbc48bd65
+316	396	688820761	../../../../src/main/jniLibs/arm64-v8a/libnative-lib.so	5743a7a837ea390
+2	151	688825487	../../../../src/main/jniLibs/arm64-v8a/libnative-lib.so	5743a7a837ea390
+0	9	0	clean	989fffd6a9495a26
+0	10	0	clean	989fffd6a9495a26
+0	11	0	clean	989fffd6a9495a26
+0	9	0	clean	989fffd6a9495a26
+2	139	688826488	src/main/cpp/openclstatic/CMakeFiles/openclstatic.dir/libopencl.cpp.o	43fc4e5e386d8d59
+139	222	688826488	src/main/cpp/openclstatic/libopenclstatic.a	ec0322522b2bbd3d
+7	343	688826488	src/main/cpp/main/CMakeFiles/native-lib.dir/native-lib.cpp.o	a2e337fbbc48bd65
+343	426	688826489	../../../../src/main/jniLibs/arm64-v8a/libnative-lib.so	5743a7a837ea390
+0	11	0	clean	989fffd6a9495a26
+2	177	688826530	src/main/cpp/openclstatic/CMakeFiles/openclstatic.dir/libopencl.cpp.o	43fc4e5e386d8d59
+177	248	688826530	src/main/cpp/openclstatic/libopenclstatic.a	ec0322522b2bbd3d
+10	329	688826530	src/main/cpp/main/CMakeFiles/native-lib.dir/native-lib.cpp.o	a2e337fbbc48bd65
+329	402	688826530	../../../../src/main/jniLibs/arm64-v8a/libnative-lib.so	5743a7a837ea390

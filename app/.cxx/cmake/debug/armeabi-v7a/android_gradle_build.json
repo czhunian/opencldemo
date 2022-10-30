@@ -1,0 +1,54 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\Android\\Project\\opencl\\app\\CMakeLists.txt",
+    "D:\\Android\\Project\\opencl\\app\\src\\main\\cpp\\main\\CMakeLists.txt",
+    "D:\\Android\\Project\\opencl\\app\\src\\main\\cpp\\openclstatic\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Android\\SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\Android\\Project\\opencl\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Android\\SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\Android\\Project\\opencl\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "openclstatic-Debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "D:\\Android\\SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\Android\\Project\\opencl\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
+        "openclstatic"
+      ],
+      "buildType": "debug",
+      "abi": "armeabi-v7a",
+      "artifactName": "openclstatic",
+      "output": "D:\\Android\\Project\\opencl\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\src\\main\\cpp\\openclstatic\\libopenclstatic.a"
+    },
+    "native-lib-Debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "D:\\Android\\SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\Android\\Project\\opencl\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
+        "native-lib"
+      ],
+      "buildType": "debug",
+      "abi": "armeabi-v7a",
+      "artifactName": "native-lib",
+      "output": "D:\\Android\\Project\\opencl\\app\\src\\main\\jniLibs\\armeabi-v7a\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "buildFiles": [
+    "D:\\Android\\Project\\opencl\\app\\CMakeLists.txt",
+    "D:\\Android\\Project\\opencl\\app\\src\\main\\cpp\\main\\CMakeLists.txt",
+    "D:\\Android\\Project\\opencl\\app\\src\\main\\cpp\\openclstatic\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Android\\SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\Android\\Project\\opencl\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Android\\SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\Android\\Project\\opencl\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "openclstatic-Debug-arm64-v8a": {
+      "artifactName": "openclstatic",
+      "buildCommandComponents": [
+        "D:\\Android\\SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\Android\\Project\\opencl\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "openclstatic"
+      ],
+      "abi": "arm64-v8a",
+      "output": "D:\\Android\\Project\\opencl\\app\\.cxx\\cmake\\debug\\arm64-v8a\\src\\main\\cpp\\openclstatic\\libopenclstatic.a",
+      "runtimeFiles": []
+    },
+    "native-lib-Debug-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommandComponents": [
+        "D:\\Android\\SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\Android\\Project\\opencl\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "native-lib"
+      ],
+      "abi": "arm64-v8a",
+      "output": "D:\\Android\\Project\\opencl\\app\\src\\main\\jniLibs\\arm64-v8a\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

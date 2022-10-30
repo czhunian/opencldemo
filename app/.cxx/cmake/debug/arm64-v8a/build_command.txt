@@ -1,0 +1,24 @@
+                    Executable : D:\Android\SDK\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HD:\Android\Project\opencl\app
+-DCMAKE_FIND_ROOT_PATH=D:\Android\Project\opencl\app\.cxx\cmake\debug\prefab\arm64-v8a\prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=D:\Android\SDK\ndk\21.4.7075529\build\cmake\android.toolchain.cmake
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=D:\Android\SDK\ndk\21.4.7075529
+-DANDROID_PLATFORM=android-21
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DCMAKE_ANDROID_NDK=D:\Android\SDK\ndk\21.4.7075529
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\Android\Project\opencl\app\build\intermediates\cmake\debug\obj\arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\Android\Project\opencl\app\build\intermediates\cmake\debug\obj\arm64-v8a
+-DCMAKE_MAKE_PROGRAM=D:\Android\SDK\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=21
+-BD:\Android\Project\opencl\app\.cxx\cmake\debug\arm64-v8a
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 1

@@ -1,0 +1,6 @@
+# ninja log v5
+1	170	688826402	src/main/cpp/openclstatic/CMakeFiles/openclstatic.dir/libopencl.cpp.o	ac9de75763efe1f1
+6	287	688826403	src/main/cpp/main/CMakeFiles/native-lib.dir/native-lib.cpp.o	5b858bd49555baac
+172	530	688826403	src/main/cpp/openclstatic/libopenclstatic.a	d3754bc9f0d5ec19
+530	605	688826403	../../../../src/main/jniLibs/armeabi-v7a/libnative-lib.so	b0607ed8f776dd02
+0	11	0	clean	989fffd6a9495a26

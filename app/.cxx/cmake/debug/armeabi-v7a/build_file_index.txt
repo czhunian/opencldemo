@@ -1,0 +1,3 @@
+D:\Android\Project\opencl\app\CMakeLists.txt
+D:\Android\Project\opencl\app\src\main\cpp\main\CMakeLists.txt
+D:\Android\Project\opencl\app\src\main\cpp\openclstatic\CMakeLists.txt

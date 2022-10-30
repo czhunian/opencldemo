@@ -1,0 +1,19 @@
+ninja: Entering directory `D:\Android\Project\opencl\app\.cxx\cmake\debug\arm64-v8a'
+[1/4] Building CXX object src/main/cpp/openclstatic/CMakeFiles/openclstatic.dir/libopencl.cpp.o
+[2/4] Linking CXX static library src\main\cpp\openclstatic\libopenclstatic.a
+[3/4] Building CXX object src/main/cpp/main/CMakeFiles/native-lib.dir/native-lib.cpp.o
+In file included from ../../../../src/main/cpp/main/native-lib.cpp:8:
+../../../../src/main/cpp/main/../include\libopencl.h:4:9: warning: 'CL_TARGET_OPENCL_VERSION' macro redefined [-Wmacro-redefined]
+#define CL_TARGET_OPENCL_VERSION 120
+        ^
+../../../../src/main/cpp/main/../include\CL/cl.h:28:9: note: previous definition is here
+#define CL_TARGET_OPENCL_VERSION 300
+        ^
+../../../../src/main/cpp/main/native-lib.cpp:32:26: warning: format specifies type 'int' but the argument has type 'cl_platform_id *' (aka '_cl_platform_id **') [-Wformat]
+    LOGD("平台ID:%d\n",platforms);
+                 ~~    ^~~~~~~~~
+../../../../src/main/cpp/main/native-lib.cpp:9:64: note: expanded from macro 'LOGD'
+#define LOGD(...) __android_log_print(ANDROID_LOG_INFO,"David",__VA_ARGS__)
+                                                               ^~~~~~~~~~~
+2 warnings generated.
+[4/4] Linking CXX shared library ..\..\..\..\src\main\jniLibs\arm64-v8a\libnative-lib.so

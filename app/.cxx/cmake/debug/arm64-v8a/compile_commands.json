@@ -1,0 +1,13 @@
+[
+{
+  "directory": "D:/Android/Project/opencl/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "D:\\Android\\SDK\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=D:/Android/SDK/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/SDK/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I../../../../src/main/cpp/openclstatic/../include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o src\\main\\cpp\\openclstatic\\CMakeFiles\\openclstatic.dir\\libopencl.cpp.o -c D:\\Android\\Project\\opencl\\app\\src\\main\\cpp\\openclstatic\\libopencl.cpp",
+  "file": "D:/Android/Project/opencl/app/src/main/cpp/openclstatic/libopencl.cpp"
+},
+
+{
+  "directory": "D:/Android/Project/opencl/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "D:\\Android\\SDK\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=D:/Android/SDK/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/SDK/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/main/../include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o src\\main\\cpp\\main\\CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c D:\\Android\\Project\\opencl\\app\\src\\main\\cpp\\main\\native-lib.cpp",
+  "file": "D:/Android/Project/opencl/app/src/main/cpp/main/native-lib.cpp"
+}
+]

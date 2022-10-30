@@ -1,0 +1,8 @@
+D:/Android/Project/opencl/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Android/Project/opencl/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/Android/Project/opencl/app/.cxx/cmake/debug/armeabi-v7a/src/main/cpp/openclstatic/CMakeFiles/openclstatic.dir
+D:/Android/Project/opencl/app/.cxx/cmake/debug/armeabi-v7a/src/main/cpp/openclstatic/CMakeFiles/edit_cache.dir
+D:/Android/Project/opencl/app/.cxx/cmake/debug/armeabi-v7a/src/main/cpp/openclstatic/CMakeFiles/rebuild_cache.dir
+D:/Android/Project/opencl/app/.cxx/cmake/debug/armeabi-v7a/src/main/cpp/main/CMakeFiles/native-lib.dir
+D:/Android/Project/opencl/app/.cxx/cmake/debug/armeabi-v7a/src/main/cpp/main/CMakeFiles/edit_cache.dir
+D:/Android/Project/opencl/app/.cxx/cmake/debug/armeabi-v7a/src/main/cpp/main/CMakeFiles/rebuild_cache.dir
